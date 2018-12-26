@@ -22,9 +22,9 @@
                   <ul>
 
                     <div class="slide-body" data-group="slide">
-                      <li><img alt="" class="img-responsive" src="img/9.jpg" width="100%" height="350" /></li>
-                      <li><img alt="" class="img-responsive" src="img/10.jpg" width="100%" height="350" /></li>
-                      <li><img alt="" class="img-responsive" src="img/11.jpg" width="100%" height="350" /></li>
+                      <li><asset:image class="img-responsive" src="img/9.jpg" width="100%" height="350" /></li>
+                      <li><asset:image class="img-responsive" src="img/10.jpg" width="100%" height="350" /></li>
+                      <li><asset:image class="img-responsive" src="img/11.jpg" width="100%" height="350" /></li>
 
                     </div>
                   </ul>

@@ -20,7 +20,7 @@
           <div class="wow bounceIn" data-animation-delay="4.8s">
             <div class="team-member">
               <div class="profile-picture">
-                <figure><img src="img/members3.jpg" alt=""></figure>
+                <figure><asset:image src="img/members3.jpg"/></figure>
                 <div class="profile-overlay"></div>
                 <div class="profile-social">
                   <div class="icons-wrapper">
@@ -48,7 +48,7 @@
           <div class="wow bounceIn">
             <div class="team-member">
               <div class="profile-picture">
-                <figure><img src="img/members1.jpg" alt=""></figure>
+                <figure><asset:image src="img/members1.jpg" /></figure>
                 <div class="profile-overlay"></div>
                 <div class="profile-social">
                   <div class="icons-wrapper">
@@ -75,7 +75,7 @@
           <div class="wow bounceIn">
             <div class="team-member">
               <div class="profile-picture">
-                <figure><img src="img/members2.jpg" alt=""></figure>
+                <figure><asset:image src="img/members2.jpg"/></figure>
                 <div class="profile-overlay"></div>
                 <div class="profile-social">
                   <div class="icons-wrapper">

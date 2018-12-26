@@ -1,9 +1,9 @@
 package agroverdes
 
-import grails.testing.gorm.DomainUnitTest
+import grails.testing.web.controllers.ControllerUnitTest
 import spock.lang.Specification
 
-class ConsumidorSpec extends Specification implements DomainUnitTest<Consumidor> {
+class MenuControllerSpec extends Specification implements ControllerUnitTest<MenuController> {
 
     def setup() {
     }

@@ -9,13 +9,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <asset:link rel="icon" href="favicon.ico" type="image/x-ico" />
 
-    <asset:stylesheet src="application.css"/>
-      <asset:stylesheet src="css/isotope.css"/>
-      <asset:stylesheet src="js/fancybox/jquery.fancybox.css" />
+        <asset:stylesheet src="css/isotope.css"/>
+      <asset:stylesheet src="js/fancybox/jquery.fancybox.css"/>
       <asset:stylesheet src="css/bootstrap.css"/>
       <asset:stylesheet src="css/bootstrap-theme.css"/>
       <asset:stylesheet src="css/responsive-slider.css"/>
-      <asset:stylesheet src="css/animate.css"/>
+      <asset:stylesheet src="stylesheet" href="css/animate.css"/>
       <asset:stylesheet src="css/style.css"/>
 
       <asset:stylesheet src="css/font-awesome.min.css"/>
@@ -47,6 +46,8 @@
                 <li><a href="#line-pricing">Pricing</a></li>
                 <li><a href="#section-works">Portfolio</a></li>
                 <li><a href="#section-contact">Contact</a></li>
+                <li><g:link controller="Menu" action="cadastro">Cadastre-se</g:link></li>
+                <li><g:link controller="Menu" action="login">Entre</g:link></li>
               </ul>
             </div>
             <!--/.navbar-collapse -->
@@ -103,9 +104,9 @@
       <asset:javascript src="js/main.js"/>
       <asset:javascript src="js/wow.min.js"/>
       <script>
-        wow = new WOW({}).init();
+         wow = new WOW({}).init();
       </script>
-      <asset:javascript src="contactform/contactform.js"/>
+        <asset:javascript src="contactform/contactform.js"/>
 
 </body>
 </html>

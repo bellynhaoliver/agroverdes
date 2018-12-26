@@ -27,7 +27,7 @@
               <article class="col-md-4 isotopeItem webdesign">
                 <div class="portfolio-item">
                   <div class="wow rotateInUpLeft" data-animation-delay="4.8s">
-                    <img src="img/portfolio/1.jpg" alt="welcome" />
+                    <asset:image src="img/portfolio/1.jpg" />
                   </div>
                   <div class="portfolio-desc align-center">
                     <div class="folio-info">
