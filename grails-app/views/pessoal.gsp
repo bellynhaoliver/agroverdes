@@ -10,7 +10,8 @@
 <body>
 
 <div class="container">
-  <h2>Alif é foda!</h2>
+  <h2>Bem vindo!</h2>
+  <g:link controller="post" action="create">Criar postagem</g:link>
 </div>
 
 </body>

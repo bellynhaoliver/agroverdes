@@ -6,9 +6,8 @@
           <div class="section-header">
             <div class="wow bounceIn">
 
-              <h2 class="section-heading animated" data-animation="bounceInUp">Our Team</h2>
-              <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet consectetur, adipisci velit, sed quia
-                non numquam.</p>
+              <h2 class="section-heading animated" data-animation="bounceInUp">Nosso Time</h2>
+              <p>Nosso time é feito de pessoas compromissadas com o intuito de lhe fornecer bem estar.</p>
 
             </div>
           </div>
@@ -33,8 +32,9 @@
                 </div>
               </div>
               <div class="team-detail">
-                <h4>Ron Evgeniy</h4>
-                <span>User experiences</span>
+              <br>
+                <h4>Isabelly Nathalia</h4>
+                <span></span>
               </div>
               <div class="team-bio">
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, fugiat, harum, adipisci
@@ -61,12 +61,12 @@
                 </div>
               </div>
               <div class="team-detail">
-                <h4>Alexander Chernov</h4>
-                <span>Web developer</span>
+              <br>
+                <h4>Débora Taís</h4>
+                <span></span>
               </div>
               <div class="team-bio">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, fugiat, harum, adipisci
-                  accusantium minus asperiores.</p>
+                <p>Nosso time é feito de pessoas compromissadas com o intuito de lhe fornecer bem estar.</p>
               </div>
             </div>
           </div>
@@ -88,8 +88,9 @@
                 </div>
               </div>
               <div class="team-detail">
-                <h4>Jose Manuel</h4>
-                <span>Web designer</span>
+              <br>
+                <h4>Ana Flávia Rocha</h4>
+                <span></span>
               </div>
               <div class="team-bio">
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, fugiat, harum, adipisci

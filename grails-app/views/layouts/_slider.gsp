@@ -12,11 +12,11 @@
           <div class="item active" style="background-image: url(img/1.jpg);">
             <div class="carousel-caption">
               <div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.3s">
-                <h2>Clean & Modern Design Template</h2>
+                <h2>AgroVerdes</h2>
               </div>
               <div class="col-md-10 col-md-offset-1">
                 <div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.6s">
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing</p>
+                  <p>A melhor rede social para você mostrar seus produtos</p>
                 </div>
               </div>
               <div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.9s">
@@ -36,11 +36,11 @@
           <div class="item" style="background-image: url(img/2.jpg);">
             <div class="carousel-caption">
               <div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="1.0s">
-                <h2>Fully Responsive</h2>
+                <h2>Ágil & Fácil de usar</h2>
               </div>
               <div class="col-md-10 col-md-offset-1">
                 <div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.6s">
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing</p>
+                  <p>Bom gosto você encontra aqui</p>
                 </div>
               </div>
               <div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="1.6s">

@@ -2,6 +2,8 @@ package agroverdes
 
 class ConsumidorController {
 
-    def index() { }
+    def index() {
+
+    }
 
 }

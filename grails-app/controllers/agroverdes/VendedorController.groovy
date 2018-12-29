@@ -2,5 +2,7 @@ package agroverdes
 
 class VendedorController {
 
-    def index() { }
+    def index() {
+
+    }
 }

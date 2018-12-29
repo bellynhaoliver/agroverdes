@@ -20,7 +20,6 @@
       <asset:stylesheet src="css/font-awesome.min.css"/>
       <!-- skin -->
       <asset:stylesheet src="skin/default.css"/>
-
     <g:layoutHead/>
 </head>
 <body>
@@ -34,18 +33,16 @@
               <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                 <span class="fa fa-bars color-white"></span>
               </button>
-              <h1><a class="navbar-brand" href="index.html" data-0="line-height:90px;" data-300="line-height:50px;">GREEN
+              <h1><a class="navbar-brand" href="index.html" data-0="line-height:90px;" data-300="line-height:50px;">Agroverdes
                 </a></h1>
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav" data-0="margin-top:20px;" data-300="margin-top:5px;">
                 <li class="active"><a href="#header">Home</a></li>
-                <li><a href="#section-about">About</a></li>
-                <li><a href="#services">Service</a></li>
+                <li><a href="#section-about">Sobre</a></li>
+                <li><a href="#services">Serviço</a></li>
                 <li><a href="#team">Team</a></li>
-                <li><a href="#line-pricing">Pricing</a></li>
-                <li><a href="#section-works">Portfolio</a></li>
-                <li><a href="#section-contact">Contact</a></li>
+                <li><a href="#section-contact">Contato</a></li>
                 <li><g:link controller="Menu" action="cadastro">Cadastre-se</g:link></li>
                 <li><g:link controller="Menu" action="login">Entre</g:link></li>
               </ul>

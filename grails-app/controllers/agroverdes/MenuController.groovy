@@ -12,7 +12,7 @@ class MenuController {
     def cadastrar(){
         def consumidor = new Consumidor(params)
         consumidor.save()
-        render view:"/pagina-cadastro",model:[status:"Não foi salvo"]
+        render view:"/pagina-login",model:[flash.message = "Cadastro realizado com sucesso"]
     }
     def entrar(){
         def consumidor = Consumidor.findByEmailAndSenha(params.email,params.senha)
@@ -20,7 +20,7 @@ class MenuController {
             render view:"/pessoal"
         }
         else{
-            render view:"pagina-login",model:[status:"Não foi possivel entrar"]
+            render view:"/pagina-login",model:[flash.error = "Não foi possivel entrar"]
         }
     }
 }

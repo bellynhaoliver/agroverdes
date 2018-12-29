@@ -9,10 +9,10 @@
 </head>
 <body>
 
-<div class="container">
+<div class="container spaced-container">
   <h2>Cadastro</h2>
-  <g:if test="${status}">
-    ${status}
+  <g:if test="${flash.message}">
+    ${flash.message}
   </g:if>
   <g:form controller="Menu">
     <div class="form-group">
